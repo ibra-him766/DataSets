@@ -1,0 +1,190 @@
+﻿COUNTRY_ANAME,ISO3,COUNTRY_ENAME,Region
+إيطاليا,ITA,Italy,WE/EU
+تايوان,TWN,Taiwan,AP
+بولندا,POL,Poland,WE/EU
+هنجاريا,HUN,Hungary,WE/EU
+الإتحاد الأوربي,EU,European Union,EU
+إيرلندا,IRL,Ireland,WE/EU
+بنغلادش,BGD,Bangladesh,AP
+الأردن,JOR,Jordan,MENA
+هونج كونج,HKG,Hong Kong,AP
+نيوزيلاندا,NZL,New Zealand,AP
+سلوفانيا,SVN,Slovenia,WE/EU
+روسيا,RUS,Russia,ECA
+تونس,TUN,Tunisia,MENA
+الأرجنتين,ARG,Argentina,AME
+ماينامار,MMR,Myanmar,AP
+تشيلي,CHL,Chile,AME
+كامبوديا,KHM,Cambodia,AP
+لتوانيا,LTU,Lithuania,WE/EU
+أكوادور,ECU,Ecuador,AME
+جيبوتي,DJI,Djibouti,SSA
+كولومبيا,COL,Colombia,AME
+مالطة,MLT,Malta,WE/EU
+هوندوراس,HND,Honduras,AME
+دومينكا,DMA,Dominica,AME
+بيلاروس,BLR,Belarus,ECA
+جمهورية الدومينيكان,DOM,Dominican Republic,AME
+مولدافيا,MDA,Moldova,ECA
+أوزباكستان,UZB,Uzbekistan,ECA
+ألبانيا,ALB,Albania,ECA
+زيمبابوي,ZWE,Zimbabwe,SSA
+كونغو,COG,Congo,SSA
+قيرقيزيستان,KGZ,Kyrgyzstan,ECA
+براجواي,PRY,Paraguay,AME
+السنيغال,SEN,Senegal,SSA
+أفغانستان,AFG,Afghanistan,AP
+ساحل العاج(كوتديفوار,CIV,Cote d'Ivoire,SSA
+سلفادور,SLV,El Salvador,AME
+بهاما,BHS,Bahamas,AME
+أيسلندا,ISL,Iceland,WE/EU
+سوازي لاند,SWZ,Eswatini,SSA
+ليبريا,LBR,Liberia,SSA
+جابون,GAB,Gabon,SSA
+ترينيداد و توباكو,TTO,Trinidad and Tobago,AME
+جامايكا,JAM,Jamaica,AME
+أرمينيا,ARM,Armenia,ECA
+أذربيجان,AZE,Azerbaijan,ECA
+سانت فينسنت,VCT,Saint Vincent and the Grenadines,AME
+مالديف,MDV,Maldives,AP
+بربدوس,BRB,Barbados,AME
+جزر القمر,COM,Comoros,SSA
+إيران,IRN,Iran,MENA
+بروناي دار السلام,BRN,Brunei Darussalam,AP
+جنوب السودان,SSD,South Sudan,SSA
+ملاوي,MWI,Malawi,SSA
+هاييتي,HTI,Haiti,AME
+أنجولا,AGO,Angola,SSA
+بابوا(غينيا الجديدة),PNG,Papua New Guinea,AP
+مالي,MLI,Mali,SSA
+جمهورية افريقيا وسطى,CAF,Central African Republic,SSA
+الجزائر,DZA,Algeria,MENA
+أستراليا,AUS,Australia,AP
+النمسا,AUT,Austria,WE/EU
+البحرين,BHR,Bahrain,MENA
+بلجيكا,BEL,Belgium,WE/EU
+بنين,BEN,Benin,SSA
+بوتان,BTN,Bhutan,AP
+بوليفيا,BOL,Bolivia,AME
+البوسنة والهرسك,BIH,Bosnia and Herzegovina,ECA
+بوتسوانا,BWA,Botswana,SSA
+البرازيل,BRA,Brazil,AME
+بلغاريا,BGR,Bulgaria,WE/EU
+بوركينا فاسو,BFA,Burkina Faso,SSA
+بوروندى,BDI,Burundi,SSA
+الكاميرون,CMR,Cameroon,SSA
+كندا,CAN,Canada,AME
+تشاد,TCD,Chad,SSA
+الصين الشعبية,CHN,China,AP
+جمهورية الكونغو الديمقراطية,COD,Democratic Republic of the Congo,SSA
+كوستاريكا,CRI,Costa Rica,AME
+كرواتيا,HRV,Croatia,WE/EU
+كوبا,CUB,Cuba,AME
+قبرص,CYP,Cyprus,WE/EU
+التشيك,CZE,Czech Republic,WE/EU
+الدنمارك,DNK,Denmark,WE/EU
+مصر,EGY,Egypt,MENA
+غينيا الاستوائية,GNQ,Equatorial Guinea,SSA
+اريتريا,ERI,Eritrea,SSA
+استونيا,EST,Estonia,WE/EU
+اثيوبيا,ETH,Ethiopia,SSA
+فنلندا,FIN,Finland,WE/EU
+فرنسا,FRA,France,WE/EU
+جامبيا,GMB,Gambia,SSA
+جورجيا,GEO,Georgia,ECA
+المانيا,DEU,Germany,WE/EU
+غانا,GHA,Ghana,SSA
+اليونان,GRC,Greece,WE/EU
+جرانادا,GRD,Grenada,AME
+جواتيمالا,GTM,Guatemala,AME
+غينيا,GIN,Guinea,SSA
+غينيا بيساو,GNB,Guinea Bissau,SSA
+جويانا,GUY,Guyana,AME
+الهند,IND,India,AP
+أندونيسيا,IDN,Indonesia,AP
+العراق,IRQ,Iraq,MENA
+اسرائيل,ISR,Israel,MENA
+اليابان,JPN,Japan,AP
+كازاخستان,KAZ,Kazakhstan,ECA
+كينيا,KEN,Kenya,SSA
+كوريا الشمالية,PRK,"Korea, North",AP
+كوريا الجنوبية,KOR,"Korea, South",AP
+الكويت,KWT,Kuwait,MENA
+لاوس,LAO,Laos,AP
+لاتفيا,LVA,Latvia,WE/EU
+لبنان,LBN,Lebanon,MENA
+ليسوتو,LSO,Lesotho,SSA
+ليبيا,LBY,Libya,MENA
+لوكسمبورج,LUX,Luxembourg,WE/EU
+مقدونيا,MKD,North Macedonia,ECA
+مدغشقر,MDG,Madagascar,SSA
+ماليزيا,MYS,Malaysia,AP
+موريتانيا,MRT,Mauritania,SSA
+موريشيوس,MUS,Mauritius,SSA
+مكسيك,MEX,Mexico,AME
+منغوليا,MNG,Mongolia,AP
+مونتنيجرو,MNE,Montenegro,ECA
+المغرب,MAR,Morocco,MENA
+موزمبيق,MOZ,Mozambique,SSA
+ناميبيا,NAM,Namibia,SSA
+نيبال,NPL,Nepal,AP
+هولندا,NLD,Netherlands,WE/EU
+نيكاراجوا,NIC,Nicaragua,AME
+النيجر,NER,Niger,SSA
+نيجيريا,NGA,Nigeria,SSA
+النرويج,NOR,Norway,WE/EU
+عمان,OMN,Oman,MENA
+باكستان,PAK,Pakistan,AP
+بنما,PAN,Panama,AME
+بيرو,PER,Peru,AME
+الفلبين,PHL,Philippines,AP
+البرتغال,PRT,Portugal,WE/EU
+قطر,QAT,Qatar,MENA
+رومانيا,ROU,Romania,WE/EU
+رواندا,RWA,Rwanda,SSA
+سان لوتشيا,LCA,Saint Lucia,AME
+ساوتومى اند برنسيب,STP,Sao Tome and Principe,SSA
+السعودية,SAU,Saudi Arabia,MENA
+صربيا,SRB,Serbia,ECA
+جزر سيشل,SYC,Seychelles,SSA
+سيراليون,SLE,Sierra Leone,SSA
+سنغافوره,SGP,Singapore,AP
+سلوفاكيا,SVK,Slovakia,WE/EU
+جزر سولومون,SLB,Solomon Islands,AP
+الصومال,SOM,Somalia,SSA
+جنوب افريقيا,ZAF,South Africa,SSA
+إسبانيا,ESP,Spain,WE/EU
+سريلانكا,LKA,Sri Lanka,AP
+السودان,SDN,Sudan,SSA
+سورينام,SUR,Suriname,AME
+السويد,SWE,Sweden,WE/EU
+سويسرا,CHE,Switzerland,WE/EU
+سوريا,SYR,Syria,MENA
+طاجكستان,TJK,Tajikistan,ECA
+تنزانيا,TZA,Tanzania,SSA
+تايلاند,THA,Thailand,AP
+توجو,TGO,Togo,SSA
+تركيا,TUR,Turkey,ECA
+تركمانستان,TKM,Turkmenistan,ECA
+اوغندا,UGA,Uganda,SSA
+اوكرانيا,UKR,Ukraine,ECA
+الإمارات,ARE,United Arab Emirates,MENA
+المملكة المتحدة,GBR,United Kingdom,WE/EU
+أمريكا,USA,United States of America,AME
+أرجواي,URY,Uruguay,AME
+فانواتو,VUT,Vanuatu,AP
+فنزويلا,VEN,Venezuela,AME
+فيتنام,VNM,Vietnam,AP
+اليمن,YEM,Yemen,MENA
+زامبيا,ZMB,Zambia,SSA
+الرأس الأخضر,CPV,Cabo Verde,SSA
+تيمور الشرقية,TLS,Timor-Leste,AP
+كوسوفو,KSV,Kosovo,ECA
+بولندا (بولونيا),POL,Poland,WE/EU
+فلسطين,PSE,Palestine,MENA
+بورتوريكو,PRI,Puerto Rico,AME
+سان مارينو,SMR,San Marino ,WE/EU
+ماكاو,MAC,Macao,AP
+ليختنشتاين,LIE,Liechtenstein,WE/EU
+أروبا,ABW,Aruba,AME
+موناكو,MCO,Monaco,WE/EU
